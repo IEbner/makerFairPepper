@@ -1,5 +1,7 @@
 # makerFairPepper
 
+Contributers: Ina Ebner,
+
 Liquid: 
 
 https://www.youtube.com/watch?v=DKSpgFuKeb4
