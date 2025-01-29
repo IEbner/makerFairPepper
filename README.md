@@ -1,6 +1,6 @@
 # makerFairPepper
 
-Contributers: Ina Ebner,
+Contributers: Ina Ebner, Kris Schweitzer
 
 Liquid: 
 
